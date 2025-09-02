@@ -34,14 +34,14 @@ Atualmente focado em **Java, Spring Boot e PostgreSQL**, construindo projetos pr
 ## 🌱 Objetivos
 - Me aprofundar em **backend com Spring Boot**  
 - Aprender mais sobre **DevOps (Docker, CI/CD)**  
-- Contribuir com projetos open-source  
+- Conseguir minha primeira vaga como desenvolvedor java**  
 
 ---
 
 ## 📫 Onde me encontrar
 - GitHub: [@lucadev812](https://github.com/lucadev812)  
-- LinkedIn: *(adicione seu link aqui)*  
-- Email: *(adicione se quiser deixar público)*  
+- LinkedIn: www.linkedin.com/in/rubenslucadev  
+- Email: rubens.dev00@gmail.com
 
 ---
 

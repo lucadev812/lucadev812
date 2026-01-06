@@ -45,7 +45,6 @@ Atualmente focado em **Java, Spring Boot e PostgreSQL**, construindo projetos pr
 
 ---
 
-⭐ Sempre aberto a colaborações e novos aprendizados!
 
 
 
